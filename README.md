@@ -44,7 +44,7 @@ This project is beneficial for developers and machine learning enthusiasts looki
 
 ### Links and Resources
 
-1. [Fashion Product Images Dataset on Kaggle](https://www.kaggle.com/datasets/chaitanyasood1/tmdb-5000-movies)
+1. [Movies Dataset on Kaggle](https://www.kaggle.com/datasets/chaitanyasood1/tmdb-5000-movies)
 
 2. Link to the Google Drive for required pickle files: [Google Drive](https://drive.google.com/drive/u/0/folders/1RkR0O5QndDT-kUH8WSZdCu9E-AzKxhGy)
    You might need to generate Filenames.pkl file again to make the project work
